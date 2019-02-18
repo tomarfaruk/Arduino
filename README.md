@@ -5,7 +5,7 @@ This was my varsity requirement project base project. It can take information fr
 
 
 
-###Omar Faruk, umorfarukcse@gmail.com, 
+### Omar Faruk, umorfarukcse@gmail.com, 
 My Arduino web app link here  https://arduino-f7537.firebaseapp.com
 don't be afraid to see 200 lines of code it's very easy, same code you have to write for control all the devices.
 1. firstly we to have to install some library for elsp8266 and firebase
