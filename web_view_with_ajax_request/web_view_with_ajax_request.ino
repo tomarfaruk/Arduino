@@ -5,7 +5,7 @@
 ESP8266WebServer server(80); // 80 is the port number
 
 const char* ssid="OmAr";
-const char* password="01746160162";
+const char* password="********";
 
 const int sensor=A0; // Assigning analog pin A0 to variable 'sensor'
 float tempc;  //variable to store temperature in degree Celsius
